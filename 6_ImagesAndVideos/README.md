@@ -5,6 +5,4 @@ Structural Images:
 
 
 
-![xo](https://user-images.githubusercontent.com/94520197/143051631-ede79039-b334-410a-bc50-180d97015853.png)
-
 
